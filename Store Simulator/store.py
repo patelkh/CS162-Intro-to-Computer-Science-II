@@ -1,7 +1,6 @@
 # Author: Khushboo Patel
 # Date: 06/21/2021
-# Description: This file contains an online store simulator. It has these classes:
-# Product, Customer and Store.
+# Description: This file contains an online store simulator. 
 
 
 class InvalidCheckoutError(Exception):
