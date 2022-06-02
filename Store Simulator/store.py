@@ -1,6 +1,4 @@
-# Author: Khushboo Patel
-# Date: 06/21/2021
-# Description: This file contains an online store simulator. 
+# Author: Kay Patel
 
 
 class InvalidCheckoutError(Exception):
