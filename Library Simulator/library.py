@@ -1,6 +1,4 @@
-# Author: Khushboo Patel (Kay)
-# Date: 06/25/2021
-# Description: This file contains a Library simulator involving multiple classes.
+# Author: Kay Patel
 
 
 class LibraryItem:
