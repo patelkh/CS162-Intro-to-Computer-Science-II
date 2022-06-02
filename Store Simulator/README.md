@@ -1,4 +1,4 @@
-# project-2
+# Store Simulator
 
 **[70 pts]**  You will be writing a (rather primitive) online store simulator. It will have these classes: Product, Customer and Store. All data members of each class should be marked as **private** (a leading underscore in the name). Since they're private, if you need to access them from outside the class, you should do so via get or set methods. Any get or set methods should be named per the usual convention ("get_" or "set_" followed by the name of the data member). 
 
