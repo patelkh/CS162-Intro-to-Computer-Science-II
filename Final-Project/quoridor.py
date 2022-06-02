@@ -1,4 +1,4 @@
-# Author: Khushboo Patel
+# Author: Kay Patel
 
 class QuoridorGame:
     """The QuoridorGame class is a representation of a Quoridor game between 2 players. It is responsible for (1) keeping track of whose turn it is to make a move (2) verifying whether a rule is being violated, (3) moving a pawn to given location, (4) placing a fence on a given coordinate, (5) updating player’s information and (6) checking whether a move results in a win. It communicates with the QuoridorBoard class to get the general layout and setup of the game board, QuoridorPlayer class to get/set information (e.g., location, fence count, etc.) about the 2 players, and Neighbor class to identify a player’s neighbors on the board."""
